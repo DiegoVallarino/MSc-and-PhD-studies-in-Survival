@@ -1,5 +1,5 @@
 ---
-title: "Multi-Task Neural Learning for Survival Analysis: from traditional to machine learning models"
+title: "Regresión logística multitarea para análisis de supervivencia: de los modelos tradicionales a los de aprendizaje automático"
 author: "Diego Vallarino"
 date: 'Junio 2022'
 output:
